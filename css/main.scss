@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.carousel-item{
+    height: 70vh;
+    
+   
+}
+// .carousel-item::after{
+//     content: "";
+//     display: block;
+//     width: 100%;
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     background-color: black;
+//     height: 100%;
+//     opacity: 0.8;
+    
+// }
+.carousel-item img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.carousel-caption{
+    z-index: 10;
+}
+.carousel-indicator{
+    z-index: 10;
+}
+.form-row{
+    background-color: rgb(223, 222, 222);
+}
+a:hover{
+    color: red;
+}

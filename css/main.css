@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.carousel-item {
+  height: 70vh;
+}
+
+.carousel-item img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.carousel-caption {
+  z-index: 10;
+}
+
+.carousel-indicator {
+  z-index: 10;
+}
+
+.form-row {
+  background-color: #dfdede;
+}
+
+a:hover {
+  color: red;
+}
+/*# sourceMappingURL=main.css.map */
